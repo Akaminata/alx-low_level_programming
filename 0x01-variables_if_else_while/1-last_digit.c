@@ -4,7 +4,7 @@
 /* more headers goes there */
 
 /**
- * Prints if generated random number is active, zero or negative
+ * main - Entry point
  * Return: Always 0 (success)
  */
 
