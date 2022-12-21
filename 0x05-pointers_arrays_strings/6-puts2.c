@@ -1,4 +1,4 @@
-#include "maiin.h"
+#include "main.h"
 
 /**
  * puts2 - printsev ery other charracter in string.
